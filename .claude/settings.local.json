@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__vooster-ai__list_projects",
+      "mcp__vooster-ai__read_task",
+      "mcp__sequential-thinking__sequentialthinking",
+      "mcp__vooster-ai__update_task_status",
+      "Bash(curl:*)",
+      "Bash(lsof:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run dev:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_install"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
